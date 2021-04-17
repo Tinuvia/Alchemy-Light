@@ -1,0 +1,273 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 16322 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\SpelD\Unity\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/SpelD/Unity/Projects/2DPlatformers/Alchemy Light
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49700
+Successfully changed project path to: D:/SpelD/Unity/Projects/2DPlatformers/Alchemy Light
+D:/SpelD/Unity/Projects/2DPlatformers/Alchemy Light
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 60.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/SpelD/Unity/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/SpelD/Unity/Projects/2DPlatformers/Alchemy Light/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 980M (ID=0x1617)
+    Vendor:   
+    VRAM:     4053 MB
+    Driver:   27.21.14.6140
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'D:/SpelD/Unity/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/SpelD/Unity/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/SpelD/Unity/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56788
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/SpelD/Unity/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/SpelD/Unity/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001819 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 57.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.588 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002668 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 63.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.182 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2813 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 124.7 MB.
+System memory in use after: 124.9 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3256.
+Total: 3.154400 ms (FindLiveObjects: 0.343900 ms CreateObjectMapping: 0.132800 ms MarkObjects: 2.534100 ms  DeleteObjects: 0.142600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites
+  artifactKey: Guid(1f6b5eef0dc31c3409662c5fc9920c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(1f6b5eef0dc31c3409662c5fc9920c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9d47c5a123a9b4eaaf852708e9545d') in 0.026766 seconds
+  Import took 0.031636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 781.778113 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed83ac2429d050d91cf7f23470716ff9') in 0.520108 seconds
+  Import took 0.527457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.835566 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0c2ce4ea63ee51d5007e3579f99fed') in 0.140990 seconds
+  Import took 0.147627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 312.634693 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cbc314a50ca3d1aded44cb94af91bd4') in 0.086407 seconds
+  Import took 0.142838 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002056 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.206 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2701 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 123.8 MB.
+System memory in use after: 124.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3327.
+Total: 4.112000 ms (FindLiveObjects: 0.422700 ms CreateObjectMapping: 0.290200 ms MarkObjects: 3.375600 ms  DeleteObjects: 0.022000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 540.129960 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '360502dd66f8a2384be4c846a9c05d8b') in 0.381138 seconds
+  Import took 0.397730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.400146 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1bc30fb8564f0b7e88f9f802c8d0e76') in 0.105030 seconds
+  Import took 0.111356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 614.766031 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb5443e28c07f490e10cf1fcd45c8aa4') in 0.103327 seconds
+  Import took 0.111836 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.846026 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6827cf6b7e186acdc13cf8e78bbb18f9') in 0.099454 seconds
+  Import took 0.107290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 192.859220 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97148438e352a5f0017ca13f4e96bd73') in 0.142089 seconds
+  Import took 0.149905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 360.007471 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d1ce66da7d35d74095a3446f3d2cc39') in 0.100141 seconds
+  Import took 0.108530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.366856 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c0f1c30e0e0f412001cc815297bda2') in 0.103625 seconds
+  Import took 0.110809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62.213884 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a393a41f6de800202ad1f951e7a3300d') in 0.095209 seconds
+  Import took 0.101662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 916.197382 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbc0c4ac5cda26d6aef9ae88c818f81') in 0.092344 seconds
+  Import took 0.101376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.433515 seconds.
+  path: Assets/Sprites/StickCharacter.psb
+  artifactKey: Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/StickCharacter.psb using Guid(9444b704b6bba664295f91231c21e838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96536f4ef9bb40c66dce6fa43bbe28dd') in 0.102530 seconds
+  Import took 0.111232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 938.579057 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6374019befeac6ce670f13ba9960efb') in 0.008832 seconds
+  Import took 0.016531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.453209 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(b69b9d1838bfcb744ad907eb6475c53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(b69b9d1838bfcb744ad907eb6475c53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b419cc954e8b03d7ec9dd83d2d405a92') in 0.009495 seconds
+  Import took 0.015246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000825 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(b69b9d1838bfcb744ad907eb6475c53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(b69b9d1838bfcb744ad907eb6475c53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b419cc954e8b03d7ec9dd83d2d405a92') in 0.002750 seconds
+  Import took 0.008817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.266649 seconds.
+  path: Assets/Sprites/Player_party.anim
+  artifactKey: Guid(86e649e153bc61e4ebdd4ec2432007dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player_party.anim using Guid(86e649e153bc61e4ebdd4ec2432007dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8e59686c67e4c60fac6889fbaa14a0') in 0.017599 seconds
+  Import took 0.023066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011231 seconds.
+  path: Assets/Sprites/Player_party.anim
+  artifactKey: Guid(86e649e153bc61e4ebdd4ec2432007dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Player_party.anim using Guid(86e649e153bc61e4ebdd4ec2432007dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8e59686c67e4c60fac6889fbaa14a0') in 0.003930 seconds
+  Import took 0.012115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.909426 seconds.
+  path: Assets/Animations/Player.controller
+  artifactKey: Guid(c08686a97929b8c4cb3d34592e0f1111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player.controller using Guid(c08686a97929b8c4cb3d34592e0f1111) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f403965e13d62f53f1efa04a7bdd0a1') in 0.012896 seconds
+  Import took 0.019178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 654.249823 seconds.
+  path: Assets/Animations/Player
+  artifactKey: Guid(f2dbdb2142283f049bd992fa85d528d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player using Guid(f2dbdb2142283f049bd992fa85d528d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be21e3a85496cd73a6a978f2428b99ad') in 0.009733 seconds
+  Import took 0.017518 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
